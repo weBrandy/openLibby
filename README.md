@@ -3,4 +3,4 @@ openLibby is a Telegram Messenger bot built on node.js and is designed to commun
 
 ## What is if for?
 
-Libby will allow you to perform search on OplenLibrary database for all books available to borrow. THis will enable you to use the platform with the ease of embedded Telegram's functionality.
+Libby Bot will allow you to perform search on OplenLibrary database for all books available to borrow. This will enable you to use the platform right within you favourite messaging app!
